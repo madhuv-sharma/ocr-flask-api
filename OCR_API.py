@@ -162,4 +162,4 @@ def ocr():
       </form>
       '''
 
-app.run(debug=True)
+app.run()
