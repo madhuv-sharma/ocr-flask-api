@@ -4,7 +4,11 @@ from flask_cors import CORS, cross_origin
 from flask_ngrok import run_with_ngrok
 import numpy as np
 import pandas as pd
-import csv, cv2, json, pytesseract, sys
+import csv
+import cv2
+import json
+import pytesseract
+import sys
 
 # Initialize the app
 app = Flask(__name__)
