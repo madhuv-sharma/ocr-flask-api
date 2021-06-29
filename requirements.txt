@@ -1,0 +1,6 @@
+flask==1.1.2
+flask_cors==3.0.10
+flask_ngrok==0.0.25
+numpy==1.19.2
+opencv==4.0.1
+pytesseract==0.3.7
