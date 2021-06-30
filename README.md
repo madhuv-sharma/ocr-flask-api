@@ -7,10 +7,10 @@ To program the OCR I had used csv (to input the information about the Bounding B
 Later on, I had made a Flask API from this.
 
 
-Sources:
+    Sources:
 
-[1]		https://stackoverflow.com/a/56909036/8586764
+    [1]		https://stackoverflow.com/a/56909036/8586764
 
-[2]		https://docs.opencv.org/master/index.html
+    [2]		https://docs.opencv.org/master/index.html
 
-[3]		https://docs.python.org/3/library/difflib.html
+    [3]		https://docs.python.org/3/library/difflib.html
