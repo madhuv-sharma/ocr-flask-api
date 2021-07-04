@@ -1,6 +1,6 @@
-# ocr-flask-api
+# Canadian Driving Licenses' OCR Flask API
 
-I had created an OCR for Canadian Driving Licences, which first checked whether the input image is valid or not. If valid, it returned a JSON object which contained assorted data of all the information contained in the license:
+I had created an OCR for Canadian Driving Licenses, which first checked whether the input image is valid or not. If valid, it returned a JSON object which contained assorted data of all the information contained in the license:
 
     First Name
     Sur Name
